@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file, in reverse chronological order by release.
 
+## 1.0.0 - 2020-09-09
+
+### Added
+
+- Nothing.
+
+### Changed
+
+- remove local version
+
+### Deprecated
+
+- Nothing.
+
+### Removed
+
+- Nothing.
+
+### Fixed
+
+- Nothing.
+
 ## 0.1.2 - 2020-09-09
 
 ### Added

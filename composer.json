@@ -1,6 +1,5 @@
 {
     "name": "rieschl/changelog-test",
     "require-dev": {
-        "phly/keep-a-changelog": "^2.9"
     }
 }
