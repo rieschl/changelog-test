@@ -1,5 +1,8 @@
 {
     "name": "rieschl/changelog-test",
     "require-dev": {
+    },
+    "require": {
+        "phly/keep-a-changelog": "^2.9"
     }
 }
